@@ -1,4 +1,4 @@
-  > Automatic_Road_Damage_Detection_System: Smart City Infrastructure AI
+  > AURA: Smart City Infrastructure AI
 
 AURA (Automated Urban Road Assessment) is an automated deep learning pipeline and interactive web dashboard designed to process street-level dashcam imagery, dynamically flagging and mapping severe pavement distress. Built by Team 14D for the AI4ALL Ignite Program.
 
@@ -28,7 +28,7 @@ Advanced Bias Mitigation: Trained using Negative Sampling (images of healthy roa
 
 Clone the repository:
 
-git clone https://github.com/ReneThee/Automatic_Road_Damage_Detection_system.gi
+git clone https://github.com/zhengAntony/AURA.gi
 cd AURA
 
 
@@ -44,7 +44,7 @@ streamlit run ai4all_dashboard.py
 
 Upload a photo of a pothole (preferably taken on a smartphone with location services enabled) to see the AI inference and map marker in action!
 
-  Model Evaluation & Metrics
+ > Model Evaluation & Metrics
 
 Our model was rigorously trained for 50 Epochs using a merged dataset of RDD2022 and high-resolution street-level pothole imagery. Below are the finalized validation metrics proving the efficacy of our bias mitigation strategy.
 
